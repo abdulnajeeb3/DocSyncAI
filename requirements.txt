@@ -1,0 +1,4 @@
+gitpython
+sentence-transformers
+pinecone-client
+huggingface_hub
